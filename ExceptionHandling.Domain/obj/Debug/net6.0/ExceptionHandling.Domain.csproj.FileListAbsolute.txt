@@ -1,0 +1,12 @@
+D:\.NET CORE PROJECTS\JsonFormatterProjectSolution\ExceptionHandling.Domain\bin\Debug\net6.0\ExceptionHandling.Domain.deps.json
+D:\.NET CORE PROJECTS\JsonFormatterProjectSolution\ExceptionHandling.Domain\bin\Debug\net6.0\ExceptionHandling.Domain.dll
+D:\.NET CORE PROJECTS\JsonFormatterProjectSolution\ExceptionHandling.Domain\bin\Debug\net6.0\ExceptionHandling.Domain.pdb
+D:\.NET CORE PROJECTS\JsonFormatterProjectSolution\ExceptionHandling.Domain\obj\Debug\net6.0\ExceptionHandling.Domain.csproj.AssemblyReference.cache
+D:\.NET CORE PROJECTS\JsonFormatterProjectSolution\ExceptionHandling.Domain\obj\Debug\net6.0\ExceptionHandling.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET CORE PROJECTS\JsonFormatterProjectSolution\ExceptionHandling.Domain\obj\Debug\net6.0\ExceptionHandling.Domain.AssemblyInfoInputs.cache
+D:\.NET CORE PROJECTS\JsonFormatterProjectSolution\ExceptionHandling.Domain\obj\Debug\net6.0\ExceptionHandling.Domain.AssemblyInfo.cs
+D:\.NET CORE PROJECTS\JsonFormatterProjectSolution\ExceptionHandling.Domain\obj\Debug\net6.0\ExceptionHandling.Domain.csproj.CoreCompileInputs.cache
+D:\.NET CORE PROJECTS\JsonFormatterProjectSolution\ExceptionHandling.Domain\obj\Debug\net6.0\ExceptionHandling.Domain.dll
+D:\.NET CORE PROJECTS\JsonFormatterProjectSolution\ExceptionHandling.Domain\obj\Debug\net6.0\refint\ExceptionHandling.Domain.dll
+D:\.NET CORE PROJECTS\JsonFormatterProjectSolution\ExceptionHandling.Domain\obj\Debug\net6.0\ExceptionHandling.Domain.pdb
+D:\.NET CORE PROJECTS\JsonFormatterProjectSolution\ExceptionHandling.Domain\obj\Debug\net6.0\ref\ExceptionHandling.Domain.dll
